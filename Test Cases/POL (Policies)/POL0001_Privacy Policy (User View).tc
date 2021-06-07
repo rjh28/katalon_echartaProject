@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POL0001_Privacy Policy (User View)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5538ac2-22d1-4f73-a7ef-9c07a943eb8b</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>da26837d-6e34-46ce-ab95-de5d133e134b</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>e5fff207-d11c-4b16-8f4c-76983f48ca4f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>6a20ed56-da37-4b02-a2b0-de8a22782ef4</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BS0003_Download Documents in List Format Search Results</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bdca356-283c-4eff-8284-8be916bfc445</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>79bdb87e-6422-4230-b1cc-321230cbaf0a</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>1847c557-9ed9-4b9f-bbb7-2f3fa126607c</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>8a765751-2cd5-4cd6-928c-7bac3e994619</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

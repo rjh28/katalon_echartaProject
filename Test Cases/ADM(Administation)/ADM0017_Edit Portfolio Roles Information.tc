@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0017_Edit Portfolio Roles Information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af8fd1f0-a861-4c20-a7f0-36c42f596841</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>a5d11b45-1f0d-4634-a5d1-de20056497df</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>44651ae0-5eab-47bf-9559-2f5e3a6fe376</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

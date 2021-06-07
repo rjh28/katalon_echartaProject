@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0049_Restore Document</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47fde150-b614-4759-b3cc-653978be3ceb</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>51cfb6d7-a1b5-48a8-97e3-63edcb4474e9</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>8ed3e1fc-0466-421f-8aed-8a3e685d96c8</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

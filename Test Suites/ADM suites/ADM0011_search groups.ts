@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ADM0011_search groups</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>eb1d6511-d1c9-49ed-8c64-483c150c0029</testSuiteGuid>
+   <testCaseLink>
+      <guid>0758e681-3d44-4609-b2ad-a16f314caeb3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ADM(Administation)/ADM0011_Search for Group</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>d0437c98-f0b1-422a-8cf5-ec75afbbb7ef</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>1-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/ADM data files/Loops</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>d0437c98-f0b1-422a-8cf5-ec75afbbb7ef</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Groupname</value>
+         <variableId>20830459-a555-4802-8d53-3e5d47857347</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>012a8cc3-55b6-4ee1-b992-1a78c9c91a9d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cb728ca6-4579-446f-9192-700f8e88669b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2e4feae7-e532-4456-a568-2e96828dcd99</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

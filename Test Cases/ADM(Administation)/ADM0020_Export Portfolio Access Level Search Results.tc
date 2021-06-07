@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0020_Export Portfolio Access Level Search Results</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c18c8061-c7a2-4899-8c2d-f59757ac7273</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>835d7038-513f-4bf7-91c8-45400d762332</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>8c68e5c4-d9bf-4338-9132-4d31a9074ce5</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MD0003_Manage Upload Requests</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c16b64f8-4af3-48a7-9a8b-019971694b36</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>f4a65eb4-faa2-45c2-bd8f-54467e64ab02</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>157e74a5-5e6a-421b-b7c9-6ade59fdc35f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>75fc542d-a4dc-4443-8197-8918b2df4934</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

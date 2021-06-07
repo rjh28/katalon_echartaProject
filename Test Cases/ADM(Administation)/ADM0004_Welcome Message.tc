@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0004_Welcome Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bd1f07e-c8a9-4d8b-9b45-2078e83a9485</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>ba8889f5-55d5-435b-867a-c4d93dcf351f</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>5fa0b50b-1572-4f08-8c29-caa1ed01ef20</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>b4ba3291-1fb7-4ddd-a757-d46027389101</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

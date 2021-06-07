@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0016_Export Portfolio Roles Search Results</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdb32e45-d87a-4bb7-b045-16cdd8a7a7da</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>d71fa3ef-fd19-41d8-bb35-f15d96877fe1</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>f16a4112-f62f-4d7d-b86d-29f26baac504</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

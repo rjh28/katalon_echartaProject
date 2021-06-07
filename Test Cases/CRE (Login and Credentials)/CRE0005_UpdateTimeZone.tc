@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRE0005_UpdateTimeZone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13a74986-d252-4da2-9198-49a845be01e3</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani\t'</defaultValue>
+      <description></description>
+      <id>3fd8e3d1-8d5f-45f6-8374-969ae4b2f545</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>427ece3a-1438-4bcb-8c43-ea921cd212ba</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>ff6077d6-ef53-4f52-a033-5bc1d39e796f</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fd7eb29d-e6ec-4d54-b502-69cf25e3fab3</id>
+      <masked>false</masked>
+      <name>Timezone</name>
+   </variable>
+</TestCaseEntity>

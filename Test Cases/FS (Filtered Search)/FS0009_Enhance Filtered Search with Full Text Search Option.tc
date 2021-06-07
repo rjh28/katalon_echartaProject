@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FS0009_Enhance Filtered Search with Full Text Search Option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62f79f21-35b1-4bfe-919e-3d0af27fd3c3</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>c10d7cd4-4c01-4509-b197-2428bfcfa296</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>a06fc1a4-2468-4455-8592-f36b3ad7fcc8</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>c862de9e-ba02-44af-89de-b899d13851bc</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

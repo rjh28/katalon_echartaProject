@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0012_Export Group Search Results</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1de6966c-7b29-4b88-9428-49a8b4365a59</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>7d682689-6bf3-43ea-aafc-fe132ce690a3</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>f77989d8-e5da-4cff-a114-ad7c3f73ac1f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>85f7928a-321a-4cf8-98d4-ba68bf490d94</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

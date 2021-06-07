@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0045_Export a Portfolio Access List to Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25a07673-77c3-41ca-bcaa-0feb1e6d5c09</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>6b0441b3-676f-482b-9eb9-39b1eb3ae808</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>8a62ae23-e1a1-47a9-b640-4bd11808f63f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

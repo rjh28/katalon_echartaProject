@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0040_Search for User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f95fa15e-50ff-44f3-b0a8-0e63e93ef00e</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>463ea144-cc59-4788-a538-6907b68d62a4</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>b6b3ac45-a135-42f6-bdf9-cbf61150ea63</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

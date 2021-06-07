@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0025_Export Search Results to Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4f0c413-ae69-4f75-8eb5-ed5c3082f202</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>f813c0dc-82a2-4d07-a537-08232e8bc173</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>1b525283-b0cc-493d-80d2-e9648d196697</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

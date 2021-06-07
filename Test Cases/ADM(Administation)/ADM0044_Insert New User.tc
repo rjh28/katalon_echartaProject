@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0044_Insert New User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>835012c9-60c0-4a2d-ae94-28f2b071baf3</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>91338599-b8e2-4d2d-ba08-f4bf03833a13</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Spwak2me#2'</defaultValue>
+      <description></description>
+      <id>35c5ab0f-658e-4e82-a22e-72db8b803eac</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1cc052e5-68fe-4b4a-8201-3489c9ebc77f</id>
+      <masked>false</masked>
+      <name>uname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e39ea59-717b-46b5-b0bd-384b3e871ba6</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a145a07-d27d-4d44-98f1-1cfa3a31d0fd</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa77e17b-54c6-4376-9198-95a8dabd4465</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

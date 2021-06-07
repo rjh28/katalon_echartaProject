@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a-ANG1BABSTR15</name>
+   <tag></tag>
+   <elementGuidId>e21aab55-adef-4772-81e0-f376b1a75b7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ctl00_ContentPlaceHolderBody_DocumentResultListMetaDataSearch_GridViewDocuments&quot;]/tbody/tr[17]/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

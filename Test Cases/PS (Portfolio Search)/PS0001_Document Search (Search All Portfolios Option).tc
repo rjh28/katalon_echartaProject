@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PS0001_Document Search (Search All Portfolios Option)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81eba9e5-d408-4756-8e98-ac45ba40a83c</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>b47d22c8-c9de-43ba-a367-4ddc2e36b2bf</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>8801748d-bf9c-4297-be85-f63b5f506379</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>8159cf4e-e302-418b-983a-e54735e3b921</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

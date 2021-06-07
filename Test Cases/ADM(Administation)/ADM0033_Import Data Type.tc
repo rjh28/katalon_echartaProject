@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0033_Import Data Type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7088ca40-552a-4a80-92c0-36dc7b383dcd</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>af82145c-ae8d-4710-9ad7-02c699c8cf7e</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>20978c02-1e41-4464-a6ce-7e4a63d5d275</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

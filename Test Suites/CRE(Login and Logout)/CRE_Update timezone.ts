@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>CRE_Update timezone</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>8d248432-36d3-4006-b95a-3064d89774ee</testSuiteGuid>
+   <testCaseLink>
+      <guid>a36fc14f-59d5-41aa-9d5b-5d3d423a0ad5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CRE (Login and Credentials)/CRE0005_UpdateTimeZone</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3ff4627c-432c-4b4c-ab20-46b618f674d0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CRE data files/CRE_Update timezone</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3fd8e3d1-8d5f-45f6-8374-969ae4b2f545</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>427ece3a-1438-4bcb-8c43-ea921cd212ba</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3ff4627c-432c-4b4c-ab20-46b618f674d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Timezone</value>
+         <variableId>fd7eb29d-e6ec-4d54-b502-69cf25e3fab3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ff6077d6-ef53-4f52-a033-5bc1d39e796f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0038_Edit Meta Tag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>872c8ffe-ecdc-4e80-911e-a19114c35eaf</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>52af980f-ad0a-43c3-95b4-8928b85870d6</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>28bd1b3c-6594-4817-91b9-2e2d99c887bc</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

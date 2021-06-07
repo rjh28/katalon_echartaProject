@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0018_Add New Portfolio Role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d57f2f0-b5d7-4737-9184-d9634cdeaf75</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>81d602d6-4be1-4224-b30a-7a54a489f358</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>a5a27977-5e8f-4db7-b332-fe3fcf0f8486</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b3fdb35-d0f3-4851-bc96-c2e93ad35ff9</id>
+      <masked>false</masked>
+      <name>RoleTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75ca354d-7edf-4e45-b485-1f5d7c05be08</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

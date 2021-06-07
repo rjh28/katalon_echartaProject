@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ADM0029_add lookup type</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ca025e25-5c3b-4afb-bea0-2691a706e089</testSuiteGuid>
+   <testCaseLink>
+      <guid>979ccd9e-96a9-46e7-af17-59b16dabcebd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ADM(Administation)/ADM0029_Add Lookup Types</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>20aa27fd-e20e-475e-b950-d7ab3c1b954d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ADM data files/ADM0029_add Lookup type (1)</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c04e312f-a2be-408c-a78c-a951285863f5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e9465fef-1cfe-429b-a681-e2de47e0ce63</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>20aa27fd-e20e-475e-b950-d7ab3c1b954d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LookupType</value>
+         <variableId>fc9d1119-18df-4077-8eab-3076b1ac7bdc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>20aa27fd-e20e-475e-b950-d7ab3c1b954d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Description</value>
+         <variableId>505d0969-d9e4-463c-87b5-2be36a05e356</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

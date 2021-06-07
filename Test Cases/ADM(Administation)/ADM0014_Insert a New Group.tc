@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0014_Insert a New Group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a0b3b34-b980-43b6-b32e-9ec843e31854</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>2f9e12c2-d67d-46cb-9553-6a06c37c7ce9</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>8adffac7-afd7-49de-8476-d53ff9db599c</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7ddd217-ae62-4dd8-be8d-ef53b345e862</id>
+      <masked>false</masked>
+      <name>Group</name>
+   </variable>
+</TestCaseEntity>

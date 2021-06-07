@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BS0006_Download Documents in Grid Format Search Results</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5249260d-be50-436f-bd7f-128c5737441f</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>71d0d7f0-15de-4977-81ad-c78559971a30</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2\r\n'</defaultValue>
+      <description></description>
+      <id>24fc783c-1ae9-40ef-8130-9030d13fe902</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>504cbd06-c483-4b51-978a-5d69064609e8</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

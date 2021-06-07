@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>CRE_ChangePassword</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>21dbc7e4-eab0-4396-b94c-7c4364808f5d</testSuiteGuid>
+   <testCaseLink>
+      <guid>5b95e330-6fda-4b4e-aeea-9b8ecb2e278f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CRE (Login and Credentials)/CRE0006_ChangePassword</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>363072c2-0234-4254-b786-05ad23079ac2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CRE data files/CRE_ChangePassword</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>363072c2-0234-4254-b786-05ad23079ac2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>72f2ef59-92b6-424a-8eb9-a6ae878115ff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>363072c2-0234-4254-b786-05ad23079ac2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>624b16b9-5fcd-4a43-8142-b600a86bf0de</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>363072c2-0234-4254-b786-05ad23079ac2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CurrentPassword</value>
+         <variableId>1401e67a-83e5-4b59-b25f-55585bb9db04</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>363072c2-0234-4254-b786-05ad23079ac2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NewPassword</value>
+         <variableId>94c0ba11-b4b6-421c-98d1-24b68d328502</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>363072c2-0234-4254-b786-05ad23079ac2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ConfirmPassword</value>
+         <variableId>cfbf0a5f-69e9-4604-9405-fa17acbb3661</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

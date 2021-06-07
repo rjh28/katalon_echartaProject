@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ADM0044_Insert New User</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>136be170-da31-4b8c-94fc-fb4ce2aa2ead</testSuiteGuid>
+   <testCaseLink>
+      <guid>4d0f3d85-aeef-4362-8af9-39ea254bb515</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ADM(Administation)/ADM0044_Insert New User</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>609c832c-719f-4163-aea8-06541d388710</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ADM data files/ADM0044_insert new user</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>609c832c-719f-4163-aea8-06541d388710</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>91338599-b8e2-4d2d-ba08-f4bf03833a13</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>609c832c-719f-4163-aea8-06541d388710</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>35c5ab0f-658e-4e82-a22e-72db8b803eac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>609c832c-719f-4163-aea8-06541d388710</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>uname</value>
+         <variableId>1cc052e5-68fe-4b4a-8201-3489c9ebc77f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>609c832c-719f-4163-aea8-06541d388710</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstname</value>
+         <variableId>8e39ea59-717b-46b5-b0bd-384b3e871ba6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>609c832c-719f-4163-aea8-06541d388710</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastname</value>
+         <variableId>0a145a07-d27d-4d44-98f1-1cfa3a31d0fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>609c832c-719f-4163-aea8-06541d388710</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>aa77e17b-54c6-4376-9198-95a8dabd4465</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

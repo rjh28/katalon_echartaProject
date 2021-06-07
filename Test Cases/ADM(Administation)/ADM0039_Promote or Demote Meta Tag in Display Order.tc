@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0039_Promote or Demote Meta Tag in Display Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf0de21e-cedf-4b00-84f2-b6e24e4f7a28</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>7301e7cb-dcaf-4a2b-9357-9b18c07399db</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>48124760-2324-46fe-931a-8f5bf2ea040f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

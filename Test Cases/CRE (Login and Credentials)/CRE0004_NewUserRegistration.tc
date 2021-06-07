@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRE0004_NewUserRegistration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0dfe4a0f-1542-4495-b651-046ea327df18</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>145a83fa-eacf-43c5-8cfd-c843d7763c8c</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ecb82105-f72a-42ff-9adf-97a6624bf881</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c571e17-8dfa-4373-a471-f8acaa1374d3</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3d3916ce-6c52-491e-ada8-775e7b5d48e1</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

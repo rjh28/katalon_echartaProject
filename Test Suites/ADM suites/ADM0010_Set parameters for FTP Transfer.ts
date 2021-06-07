@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ADM0010_Set parameters for FTP Transfer</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>5d1bf12d-034d-4147-af42-9d3c103aab8c</testSuiteGuid>
+   <testCaseLink>
+      <guid>e57daaca-462f-47c7-9aaf-132acd14cc54</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ADM(Administation)/ADM0010_Set Parameters for FTP Transfer</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>075ef77f-f2dd-4cff-a1bf-cd121a1b8bb4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ADM data files/ADM0010_Set Parameters for FTP Transfer (1)</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8347d2f9-77c6-476c-bedc-b0029d38d311</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>51716ae8-532c-4ded-a20e-9a611c37d6db</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7a43357f-81fc-4c74-8e49-ce3a73746480</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>075ef77f-f2dd-4cff-a1bf-cd121a1b8bb4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserNamePort</value>
+         <variableId>d414be63-e53d-4730-a2b6-bcdeeb2958f7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>075ef77f-f2dd-4cff-a1bf-cd121a1b8bb4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Port</value>
+         <variableId>956b32b7-41e4-4eca-bc95-acb0aa4ecb44</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

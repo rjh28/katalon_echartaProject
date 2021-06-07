@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0009_Configure Access to Data Transfer Options</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49ca2dfb-6a25-4fcc-8854-318cc02b2057</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>847fa6bc-a8cc-4aba-b3ed-1706efce3bbd</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>12c47782-fe54-4aed-bc76-527e7c31ed7d</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

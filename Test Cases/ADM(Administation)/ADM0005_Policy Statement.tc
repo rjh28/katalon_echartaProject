@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0005_Policy Statement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18c2702d-1975-4ec1-9359-1e104d89fe6c</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>3b365671-76cf-4de3-875d-d711a3d852ac</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>6d19a0fa-2bdc-4c4c-b6e8-269ca6555cff</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>fbd3db24-dd83-4054-aefe-e68efa61bdf8</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

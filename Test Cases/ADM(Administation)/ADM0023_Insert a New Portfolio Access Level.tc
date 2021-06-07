@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0023_Insert a New Portfolio Access Level</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de56828e-4812-4b71-9565-e025da79d47a</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>0ba78889-ad1a-4124-a67b-ead77a523937</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>a864ce6e-8bc0-4c49-80fc-3c63c1aa5f84</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fee31f4-c4e5-4934-8268-007339a8c486</id>
+      <masked>false</masked>
+      <name>AccessLevelName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1cb306da-b1f4-4437-a8dc-9b74a9a7a3ed</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

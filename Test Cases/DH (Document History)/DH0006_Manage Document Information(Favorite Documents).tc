@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DH0006_Manage Document Information(Favorite Documents)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71eba86e-b505-4372-b475-41cefd0190ab</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>32d0de8d-77cd-4cd4-a913-cfd013f4b064</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>56bb4fea-395f-4ae2-a2c2-ca8288dd99e0</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>4819503f-587e-4154-b508-17349b01e2b1</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

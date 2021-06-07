@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRE0001_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79abf8c4-b0e6-4e97-8ea0-d8ee53fc341c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0b9997ff-a2c8-4cdf-8ab3-441cd66e6ee7</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bb2e3efd-c893-4dfc-ac79-ca6748287e94</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

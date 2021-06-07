@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0036_Export Meta Tag List</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0f64097-5f38-4ad4-824f-a8f1bae823dd</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani\r\n'</defaultValue>
+      <description></description>
+      <id>7cce24fe-fc29-4903-b3ee-a6d6b2bb135a</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>c2650e2c-99ea-4c54-8688-c5b8631e6c7e</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

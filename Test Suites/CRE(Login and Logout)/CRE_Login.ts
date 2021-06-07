@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>CRE_Login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>58876d45-f222-4f0f-a02d-35aecae5b318</testSuiteGuid>
+   <testCaseLink>
+      <guid>1ce33f24-9936-40a4-af7f-de352912efae</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CRE (Login and Credentials)/CRE0001_Login</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>ceaa7965-9f11-4e7a-b525-87fbba813665</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/CRE data files/CRE_Login</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>ceaa7965-9f11-4e7a-b525-87fbba813665</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>0b9997ff-a2c8-4cdf-8ab3-441cd66e6ee7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ceaa7965-9f11-4e7a-b525-87fbba813665</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>bb2e3efd-c893-4dfc-ac79-ca6748287e94</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

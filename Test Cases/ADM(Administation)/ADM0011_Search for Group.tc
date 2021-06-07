@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0011_Search for Group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e034ee94-bf17-4389-ae77-1f9127871b18</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>012a8cc3-55b6-4ee1-b992-1a78c9c91a9d</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>cb728ca6-4579-446f-9192-700f8e88669b</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>2e4feae7-e532-4456-a568-2e96828dcd99</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>20830459-a555-4802-8d53-3e5d47857347</id>
+      <masked>true</masked>
+      <name>GroupName</name>
+   </variable>
+</TestCaseEntity>

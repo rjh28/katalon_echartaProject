@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ADM0023_add new access level</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>30d57501-7f1a-49d7-977b-68b3e9968715</testSuiteGuid>
+   <testCaseLink>
+      <guid>f061bfe4-b526-4985-95b3-9bb896dafbdf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ADM(Administation)/ADM0023_Insert a New Portfolio Access Level</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d6238ff0-b0ae-44f4-b470-d1b8d561fea8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ADM0023_new access level</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0ba78889-ad1a-4124-a67b-ead77a523937</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a864ce6e-8bc0-4c49-80fc-3c63c1aa5f84</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6238ff0-b0ae-44f4-b470-d1b8d561fea8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>AccessLevelName</value>
+         <variableId>3fee31f4-c4e5-4934-8268-007339a8c486</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6238ff0-b0ae-44f4-b470-d1b8d561fea8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Description</value>
+         <variableId>1cb306da-b1f4-4437-a8dc-9b74a9a7a3ed</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

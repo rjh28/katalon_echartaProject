@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0031_Import Lookup Types</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9edf46bd-de27-4bc6-9380-fff9767ba74a</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>e7636eba-4741-4328-99ea-e6116a0dab2a</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>53883451-0972-4c7d-8c00-a46434d9355d</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

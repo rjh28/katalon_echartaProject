@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ADM0018_insert new portfolio role</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f5ad9096-16ab-4ddb-9a11-66cc81062284</testSuiteGuid>
+   <testCaseLink>
+      <guid>25aa7fea-561f-4a0f-ab98-83e40983ce9f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ADM(Administation)/ADM0018_Add New Portfolio Role</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a5ac764b-d1a3-4aef-8db7-93916a5f184e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ADM data files/ADM0018_Insert new portfolio role</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>81d602d6-4be1-4224-b30a-7a54a489f358</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a5a27977-5e8f-4db7-b332-fe3fcf0f8486</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a5ac764b-d1a3-4aef-8db7-93916a5f184e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>RoleTitle</value>
+         <variableId>8b3fdb35-d0f3-4851-bc96-c2e93ad35ff9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a5ac764b-d1a3-4aef-8db7-93916a5f184e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Description</value>
+         <variableId>75ca354d-7edf-4e45-b485-1f5d7c05be08</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

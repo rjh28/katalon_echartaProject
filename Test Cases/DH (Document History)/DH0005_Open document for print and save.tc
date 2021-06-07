@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DH0005_Open document for print and save</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a99b1fb-5b55-4a08-862e-1730109e549b</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>7275ada2-cc26-4882-9c16-52d69a14dc45</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>7464525b-951b-4725-a1bc-a4f4a357395f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx'</defaultValue>
+      <description></description>
+      <id>9818b5f1-f271-4ef6-ac3b-4da95dca43f6</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

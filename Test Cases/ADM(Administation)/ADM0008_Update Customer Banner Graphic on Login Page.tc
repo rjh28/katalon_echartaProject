@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0008_Update Customer Banner Graphic on Login Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a25d163d-2e59-4175-89dd-068fbffa6507</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>37988464-44cf-47cd-a1db-7fd7dac92cc8</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>80a90d93-40c7-40e5-bf82-a6956914f22b</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

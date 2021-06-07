@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0034_Edit Data Type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0bacbe7-53ed-4b34-a2db-963c46f14f69</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>06abb7bf-fbb0-4436-bb03-29ea39255de4</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>9ed0fd20-f4b6-4baf-b994-f9ef4035c0d3</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

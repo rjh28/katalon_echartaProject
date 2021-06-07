@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0032_Add Data Type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0d85c4e-7c7e-4dab-9307-e93781122316</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>29be2af8-7b34-43bd-8227-96d614c8b390</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>1330a0d0-ea43-4d90-8133-cdfa80af8fdb</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>26ec430a-f1e1-47f9-9b5b-ff9be98d3e63</id>
+      <masked>false</masked>
+      <name>DatatypeName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b0b8e665-1fe5-4cd9-84f6-cd07f045f115</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>961c708c-bd09-4a0a-a825-0e1172f8225d</id>
+      <masked>false</masked>
+      <name>BaseDataType</name>
+   </variable>
+</TestCaseEntity>

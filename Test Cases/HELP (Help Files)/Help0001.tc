@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Help0001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1371375-5f8d-4790-a955-8545fb8c00f6</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>58621663-d2a9-4c1a-8d2f-4f951da69c9a</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>f27308a9-119b-4e87-98c9-dad3a63895b6</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

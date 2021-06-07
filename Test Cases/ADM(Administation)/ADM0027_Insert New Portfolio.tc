@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0027_Insert New Portfolio</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78ccac4a-9217-4b9c-97e7-354eb31db959</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>b143d657-2b3d-4161-97e2-d3aae7e775b6</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>0d0bdd3f-c8de-4613-a905-4509c24ebc4b</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b891d610-e4c2-49b0-bfb2-9fa2e7bf229e</id>
+      <masked>false</masked>
+      <name>NewPortfolio</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa6e9179-9ff9-4844-b366-35382fbe6147</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

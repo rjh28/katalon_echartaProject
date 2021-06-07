@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0021_Edit Portfolio Access Level Information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef81b377-df2e-4d95-a6b5-897c72694099</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>51192059-f5bb-4e7b-b2c1-86d4755758aa</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>393ed124-e8a8-4bb5-8be3-fb94753952b2</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0007_Manage Company Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e569e95-3841-461e-90dc-8c26c0fdfb39</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>8c3c8434-5916-4d7c-990b-68b0f2212d5b</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>77303e01-a72a-4968-aed8-63a70a8b2ec4</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0010_Set Parameters for FTP Transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>878a76df-4e18-4f92-be40-44757827d8fc</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>8347d2f9-77c6-476c-bedc-b0029d38d311</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>51716ae8-532c-4ded-a20e-9a611c37d6db</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>7a43357f-81fc-4c74-8e49-ce3a73746480</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d414be63-e53d-4730-a2b6-bcdeeb2958f7</id>
+      <masked>false</masked>
+      <name>UserNamePort</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>956b32b7-41e4-4eca-bc95-acb0aa4ecb44</id>
+      <masked>false</masked>
+      <name>Port</name>
+   </variable>
+</TestCaseEntity>

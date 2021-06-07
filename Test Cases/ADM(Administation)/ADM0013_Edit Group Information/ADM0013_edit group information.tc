@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0013_edit group information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5874f72b-ea50-48b8-af28-c2a8a7b39585</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>51f0085a-ea55-4336-b76a-cb299ee2f93b</id>
+      <masked>false</masked>
+      <name>Usernname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>bcfdcdc8-838b-4ba7-892a-7f1d8ec21905</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

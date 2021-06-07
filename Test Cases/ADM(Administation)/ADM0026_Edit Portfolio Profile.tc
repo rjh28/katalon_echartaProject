@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0026_Edit Portfolio Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0442040-0f97-48e6-9b23-ac17aea00462</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani\r\n'</defaultValue>
+      <description></description>
+      <id>dd0c36c0-c9a6-4341-8544-4dd56bfa9c7d</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>c867ad55-f7e6-4c04-a82a-931f04b268f5</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

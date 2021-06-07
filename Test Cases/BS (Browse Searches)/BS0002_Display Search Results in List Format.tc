@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BS0002_Display Search Results in List Format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72f79463-2f34-48d4-94ff-fb3d7abf2c6d</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>a75ccf0f-4064-4157-ad29-0024bcd8ee34</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>75c9ae83-5aa9-4ffb-9852-5607a8658b98</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>7d59d962-418a-4bcd-beba-9a3d44da7ef0</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRE0002_Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7d40e14-23fb-4601-9ed0-293f6144c8c4</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>b0a67ffd-48d0-404c-8be8-8df2be6cda86</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>4e4ccf55-02d7-4db8-897d-d3f258fa117f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

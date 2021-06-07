@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BS0008_Update All Search Results from Display in Grid Format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f6b0054-27a1-4286-9e73-1497720ce106</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>a9968a95-b8dd-42bd-931b-7855a507259e</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>3efdba3f-677e-45fd-bc88-a23bf7035951</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://usda-fs.dcpi-pilot.com/Default.aspx?'</defaultValue>
+      <description></description>
+      <id>a29ef937-d7a6-4a4f-980e-092d7d408d89</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

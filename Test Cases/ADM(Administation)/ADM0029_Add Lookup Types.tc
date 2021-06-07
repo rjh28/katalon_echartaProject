@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0029_Add Lookup Types</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3bee167-70a9-47ad-92b5-42f9b201ca55</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>c04e312f-a2be-408c-a78c-a951285863f5</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>e9465fef-1cfe-429b-a681-e2de47e0ce63</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fc9d1119-18df-4077-8eab-3076b1ac7bdc</id>
+      <masked>false</masked>
+      <name>LookupType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>505d0969-d9e4-463c-87b5-2be36a05e356</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

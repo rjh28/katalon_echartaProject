@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0019_Search for Portfolio Roles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7dfc1ec-d0bf-4204-9d70-e0f05beec0e3</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani\r\n\r\n'</defaultValue>
+      <description></description>
+      <id>5440cf2c-c1d4-48cd-8535-133485a1fcad</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>762594d6-c7ba-4b67-b5b0-1cfa0ee37556</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

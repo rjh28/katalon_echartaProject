@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0022_Modify Portfolio Access Level Privileges</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28c161d0-6c31-4e4f-859c-2b4686b75f7d</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>93cc8401-a223-482c-af77-f6cdc482245e</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>848a26db-cb09-4f81-8563-a52aaa6e2249</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

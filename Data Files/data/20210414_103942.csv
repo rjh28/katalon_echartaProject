@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CRE_Login,Chrome 89.0.4389.114,,,2021-04-14 10:39:50,2021-04-14 10:40:59,1m - 9.049s,PASSED
+,,,,,,,
+Test Cases/CRE (Login and Credentials)/Login,Chrome 89.0.4389.114,,,2021-04-14 10:39:51,2021-04-14 10:40:10,18.777s,PASSED
+"openBrowser("""")",Chrome 89.0.4389.114,,,2021-04-14 10:39:51,2021-04-14 10:39:54,2.124s,PASSED
+"navigateToUrl(""https://usda-fs.dcpi-pilot.com/Default.aspx"")",Chrome 89.0.4389.114,,,2021-04-14 10:39:54,2021-04-14 10:39:59,4.941s,PASSED
+"setText(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input_User Name_ctl00ContentPlaceHolderBody_075279""), Username)",Chrome 89.0.4389.114,,,2021-04-14 10:39:59,2021-04-14 10:40:01,2.788s,PASSED
+"setText(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input_Password_ctl00ContentPlaceHolderBodyL_4a6df6""), Password)",Chrome 89.0.4389.114,,,2021-04-14 10:40:01,2021-04-14 10:40:04,2.709s,PASSED
+"click(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input__ctl00ContentPlaceHolderBodyLogin1Ima_a49b81""))",Chrome 89.0.4389.114,,,2021-04-14 10:40:04,2021-04-14 10:40:09,5.115s,PASSED
+"click(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta - Meta Data Search/input_Company Administrator_ctl00roiButtonLogoutID""))",Chrome 89.0.4389.114,,,2021-04-14 10:40:09,2021-04-14 10:40:09,0.002s,NOT_RUN
+closeBrowser(),Chrome 89.0.4389.114,,,2021-04-14 10:40:09,2021-04-14 10:40:10,0.675s,PASSED
+,,,,,,,
+Test Cases/CRE (Login and Credentials)/Login,Chrome 89.0.4389.114,,,2021-04-14 10:40:10,2021-04-14 10:40:26,16.394s,PASSED
+"openBrowser("""")",Chrome 89.0.4389.114,,,2021-04-14 10:40:10,2021-04-14 10:40:11,1.215s,PASSED
+"navigateToUrl(""https://usda-fs.dcpi-pilot.com/Default.aspx"")",Chrome 89.0.4389.114,,,2021-04-14 10:40:11,2021-04-14 10:40:16,5.421s,PASSED
+"setText(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input_User Name_ctl00ContentPlaceHolderBody_075279""), Username)",Chrome 89.0.4389.114,,,2021-04-14 10:40:16,2021-04-14 10:40:19,2.765s,PASSED
+"setText(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input_Password_ctl00ContentPlaceHolderBodyL_4a6df6""), Password)",Chrome 89.0.4389.114,,,2021-04-14 10:40:19,2021-04-14 10:40:22,2.826s,PASSED
+"click(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input__ctl00ContentPlaceHolderBodyLogin1Ima_a49b81""))",Chrome 89.0.4389.114,,,2021-04-14 10:40:22,2021-04-14 10:40:26,3.471s,PASSED
+"click(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta - Meta Data Search/input_Company Administrator_ctl00roiButtonLogoutID""))",Chrome 89.0.4389.114,,,2021-04-14 10:40:26,2021-04-14 10:40:26,0.004s,NOT_RUN
+closeBrowser(),Chrome 89.0.4389.114,,,2021-04-14 10:40:26,2021-04-14 10:40:26,0.667s,PASSED
+,,,,,,,
+Test Cases/CRE (Login and Credentials)/Login,Chrome 89.0.4389.114,,,2021-04-14 10:40:26,2021-04-14 10:40:43,16.899s,PASSED
+"openBrowser("""")",Chrome 89.0.4389.114,,,2021-04-14 10:40:26,2021-04-14 10:40:27,1.177s,PASSED
+"navigateToUrl(""https://usda-fs.dcpi-pilot.com/Default.aspx"")",Chrome 89.0.4389.114,,,2021-04-14 10:40:27,2021-04-14 10:40:32,4.824s,PASSED
+"setText(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input_User Name_ctl00ContentPlaceHolderBody_075279""), Username)",Chrome 89.0.4389.114,,,2021-04-14 10:40:32,2021-04-14 10:40:35,2.781s,PASSED
+"setText(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input_Password_ctl00ContentPlaceHolderBodyL_4a6df6""), Password)",Chrome 89.0.4389.114,,,2021-04-14 10:40:35,2021-04-14 10:40:38,2.791s,PASSED
+"click(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input__ctl00ContentPlaceHolderBodyLogin1Ima_a49b81""))",Chrome 89.0.4389.114,,,2021-04-14 10:40:38,2021-04-14 10:40:42,4.665s,PASSED
+"click(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta - Meta Data Search/input_Company Administrator_ctl00roiButtonLogoutID""))",Chrome 89.0.4389.114,,,2021-04-14 10:40:42,2021-04-14 10:40:42,0.001s,NOT_RUN
+closeBrowser(),Chrome 89.0.4389.114,,,2021-04-14 10:40:42,2021-04-14 10:40:43,0.651s,PASSED
+,,,,,,,
+Test Cases/CRE (Login and Credentials)/Login,Chrome 89.0.4389.114,,,2021-04-14 10:40:43,2021-04-14 10:40:59,15.510s,PASSED
+"openBrowser("""")",Chrome 89.0.4389.114,,,2021-04-14 10:40:43,2021-04-14 10:40:44,1.170s,PASSED
+"navigateToUrl(""https://usda-fs.dcpi-pilot.com/Default.aspx"")",Chrome 89.0.4389.114,,,2021-04-14 10:40:44,2021-04-14 10:40:49,4.265s,PASSED
+"setText(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input_User Name_ctl00ContentPlaceHolderBody_075279""), Username)",Chrome 89.0.4389.114,,,2021-04-14 10:40:49,2021-04-14 10:40:51,2.805s,PASSED
+"setText(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input_Password_ctl00ContentPlaceHolderBodyL_4a6df6""), Password)",Chrome 89.0.4389.114,,,2021-04-14 10:40:51,2021-04-14 10:40:54,2.744s,PASSED
+"click(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta/input__ctl00ContentPlaceHolderBodyLogin1Ima_a49b81""))",Chrome 89.0.4389.114,,,2021-04-14 10:40:54,2021-04-14 10:40:58,3.847s,PASSED
+"click(findTestObject(""Object Repository/CRE0001_Login/Page_eCharta - Meta Data Search/input_Company Administrator_ctl00roiButtonLogoutID""))",Chrome 89.0.4389.114,,,2021-04-14 10:40:58,2021-04-14 10:40:58,0.003s,NOT_RUN
+closeBrowser(),Chrome 89.0.4389.114,,,2021-04-14 10:40:58,2021-04-14 10:40:59,0.666s,PASSED

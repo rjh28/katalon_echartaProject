@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADM0013_manage portfolios in groups</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56946d00-253c-4ccd-94a7-b0911016fd18</testCaseGuid>
+   <variable>
+      <defaultValue>'LGulawani'</defaultValue>
+      <description></description>
+      <id>72dea3d4-f496-4eb7-9663-57f425535586</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Speak2me#2'</defaultValue>
+      <description></description>
+      <id>08eb93c7-1cde-42be-bde1-36d861e95c8b</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
